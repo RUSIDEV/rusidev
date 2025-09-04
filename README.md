@@ -4,4 +4,4 @@
 <br>
 - ⛏Building Defi | Dex | AI Agent | Protocol | Bot | Chain 
 
-<img width="1024" height="1000" alt="ChatGPT Image Sep 2, 2025, 02_42_24 PM" src="https://github.com/user-attachments/assets/c85219d9-f55f-4029-ad2b-8d5a2bf7ada7" />
+<img width="1024" height="800" alt="ChatGPT Image Sep 2, 2025, 02_42_24 PM" src="https://github.com/user-attachments/assets/c85219d9-f55f-4029-ad2b-8d5a2bf7ada7" />
